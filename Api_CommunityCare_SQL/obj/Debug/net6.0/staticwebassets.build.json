@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C0YS6Tcrnvwg6E3P3K3lxxoBuDsKV5IGMLP/UgPZrjw=",
+  "Source": "Api_CommunityCare_SQL",
+  "BasePath": "_content/Api_CommunityCare_SQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
